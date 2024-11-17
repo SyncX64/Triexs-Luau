@@ -1,6 +1,11 @@
 -- This is a beta B.1.2
 -- There's a change for script to fail because of infinite yield on your humanoid
 -- under fixing and upgradeing
+
+warn("============")
+warn("=BABFT BETA=")
+warn("============")
+
 local StrToNumber = tonumber;
 local Byte = string.byte;
 local Char = string.char;
